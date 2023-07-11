@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Trilok2303
-- 👀 I’m interested in Android 
-- 🌱 I’m currently learning Android wwith Kotlin 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
